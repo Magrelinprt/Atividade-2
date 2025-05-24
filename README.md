@@ -2,4 +2,4 @@
 Segundo teste da EBAC
 
 
-Esse teste foi para avaliar às declarações de variaveis e utilizações de condicionais. 
+Esse teste foi para avaliar às declarações de variáveis e utilizações de condicionais. 
